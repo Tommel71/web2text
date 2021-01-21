@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1fd9f86-8fd6-4a48-b244-083d67cae398" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1msh2uQwh8oHcrQvSOuXlPw8jLG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom\Documents\GitHub\web2text\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Scala REPL.Scala REPL">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ch.ethz.dalab.web2text.Main" />
+      <module name="Boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.ethz.dalab.web2text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Boilerplate" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1fd9f86-8fd6-4a48-b244-083d67cae398" name="Default Changelist" comment="" />
+      <created>1610288002356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610288002356</updated>
+      <workItem from="1610288003963" duration="2417000" />
+      <workItem from="1610290552134" duration="2616000" />
+      <workItem from="1610329088425" duration="6763000" />
+      <workItem from="1610361841316" duration="3671000" />
+      <workItem from="1610711473838" duration="4668000" />
+      <workItem from="1611256431729" duration="1176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1866" height="368" key="GridCell.Tab.0.bottom" timestamp="1610726815929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="368" key="GridCell.Tab.0.bottom/3840.1080.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1610726815929" />
+    <state width="1866" height="368" key="GridCell.Tab.0.center" timestamp="1610726815929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="368" key="GridCell.Tab.0.center/3840.1080.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1610726815929" />
+    <state width="1866" height="368" key="GridCell.Tab.0.left" timestamp="1610726815929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="368" key="GridCell.Tab.0.left/3840.1080.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1610726815929" />
+    <state width="1866" height="368" key="GridCell.Tab.0.right" timestamp="1610726815929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="368" key="GridCell.Tab.0.right/3840.1080.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1610726815929" />
+    <state x="353" y="0" key="SettingsEditor" timestamp="1610362977615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="353" y="0" key="SettingsEditor/3840.1080.1920.1000/0.0.1920.1040@0.0.1920.1040" timestamp="1610362977615" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="interactive" value="true" />
+    <option name="moduleName" value="Boilerplate" />
+  </component>
+</project>

@@ -1,0 +1,90 @@
+<p> What is net neutrality?
+
+<p> Adam Shepherd , IT Pro
+
+<p> Adam Shepherd
+
+<p> IT Pro
+
+<p> 12 Jun, 2018
+
+<p> We look at what net neutrality is and explore surrounding issues...
+
+<p> You've probably heard a lot about net neutrality; one of the most contentious issues affecting the tech sector, it has been the subject of much debate, especially in the last few years. But what exactly is net neutrality, and why is everyone making such a big deal out of it?
+
+<p> In short, net neutrality is the principle that internet service providers (ISPs) should treat all internet traffic fairly, rather than artificially slowing down or speeding up the delivery of certain websites and services over others. This is so that large ISPs don't use their market dominance to boost the speeds of services that they own or profit from (or charging users for fast delivery of their favourite websites) whilst slowing services of rivals.
+
+<p> In Europe, net neutrality protections are already enshrined in law, with
+
+<p> EU directives
+
+<p> ruling that "providers of [internet] services should treat all traffic equally, without discrimination, restriction or interference". It's also widely expected that Britain will conform to those standards post-Brexit.
+
+<p> In the US, however, net neutrality is a hot-button issue. Internet access is controlled by large corporations such as AT&T, Comcast and Verizon, and in many cases these huge companies also provide cable TV, mobile coverage and other telecommunications services. Many parts of America are served by only one provider, meaning that consumers often have little to no choice about who provides their internet access.
+
+<p> The fear of net neutrality campaigners is that without legislation to keep them in check, these companies will use their stranglehold on the provision of broadband to boost the popularity and availability of the other services they own - such as video streaming platforms - at the expense of challenger companies that they hold no stake in.
+
+<p> In 2015, the Federal Communications Commission - led by Obama-era chairman Tom Wheeler - enacted regulation to enforce net neutrality, by reclassifying broadband from a Title I service to a Title II service. This meant that it was considered a telecommunications service, and therefore subject to the same 'common carrier' protections as utilities like water or power, meaning providers were barred from tampering with delivery of the service.
+
+<p> These protections
+
+<p> have now been removed
+
+<p> . The FCC voted 3-2 to repeal them in December 2017, and broadband officially returned to its original Title I designation as of 11 June 2018. While pro-net neutrality campaigners continue to fight for the reinstatement of the regulations on multiple fronts, the previous protections are gone as far as legislators are concerned.
+
+<p> Why did Trump dismantle US net neutrality?
+
+<p> Trump has always made his dim view of net neutrality widely known, and abolishing the regulations was an early commitment of his presidency. He appointed Ajit Pai, a member of the Federal Communications Commission (FCC), to the position of FCC chairman almost immediately after taking office, a figure who would be instrumental to the repeal of net neutrality.
+
+<p> The FCC has always maintained that net neutrality laws enacted under President Obama in 2015 had stifled innovation and restricted ISPs from investing in infrastructure. With the laws now repealed, the FCC claims companies will now have the flexibility to invest in new services and further help the economy.
+
+<p> However, critics claim that the FCC's argument was flawed, particularly as ISPs have stated that net neutrality laws have not impeded investment. Concerns remain that without the guarantee of equal rights for websites and their traffic, ISPs could favour certain websites over others. There's also the fear that providers such as Comcast and Verizon will now be able to create tiered speed options for online companies, essentially squeezing those who can't afford fast speeds out of the market.
+
+<p> Millions of comments during the regulator's
+
+<p> public consultation
+
+<p> argued against the proposals, there have been hundreds of protests by internet rights activists across the US over the past year, and
+
+<p> many prominent websites
+
+<p> , such as Reddit and GitHub, have voiced their opposition.
+
+<p> How US net neutrality was dismantled
+
+<p> Following a consultation in November 2017, Pai announced plans to scale back net neutrality laws, and hand over regulation of ISPs back to the Federal Trade Commission. The two organisations signed a
+
+<p> 'Memorandum of Understanding'
+
+<p> to enforce regulations on ISPs.
+
+<p> However, not everyone at the FCC was happy with these changes. Fellow FCC commissioner Mignon Clyburn and Jessica Rosenworcel opposed the plans to backtrack on President Obama's reforms, and would ultimately side against the proposals in the final vote.
+
+<p> A host of technology companies, including a
+
+<p> consortium of 200 internet firms
+
+<p> , and an early internet pioneer group championed by the likes of Apple co-founder Steve Wozniak and world wide web inventor Tim Berners-Lee, adamantly opposed the repeal of net neutrality.
+
+<p> "We are the pioneers and technologists who created and now operate the internet, and some of the innovators and business people who, like many others, depend on it for our livelihood," read a letter from the pioneers, sent days before the net neutrality vote. "The FCC's rushed and technically incorrect proposed order to repeal net neutrality protections without any replacement is an imminent threat to the internet we worked so hard to create. It should be stopped."
+
+<p> The laws that replace net neutrality, dubbed 'Restoring Internet Freedoms Act', took effect on 11 June, but now groups opposed to the removal are set to challenge it in court, which could impede proceedings.
+
+<p> What is throttling?
+
+<p> Throttling can be defined as when a network provider deliberately slows the delivery of an internet service. This may be for a number of reasons - it could be where one user pays to access more bandwidth which means other users' access is impaired to boost the user paying more, or it may be done to prevent user congestion.
+
+<p> Net neutrality rules underline people's right to access any content or data they choose, or to use any service or run any application they desire, as long as the law isn't broken when doing so. Network providers cannot throttle access to internet services either.
+
+<p> The concept is based on the idea of all data being equally available to all users, rather than some data prioritised for specific subsections of internet users; for instance, creating internet 'fast lanes' for specific types of content like video streaming, or charging content creators or users money for faster access.
+
+<p> Who supports net neutrality outside the US?
+
+<p> The first country to enact net neutrality into law was Chile in 2010, and has since been joined by other countries such as Slovenia, Brazil and the Netherlands.
+
+<p> In August 2016 the EU published net neutrality guidelines which outlined how national regulatory bodies of its member states should bring net neutrality rules into force. ISPs and telcos could, realistically, charge online services more money in order to ensure products run more smoothly on the internet, removing the cost burden which network providers experience.
+
+<p> The Body of European Regulators for Electronic Communications (Berec) has now stated that only some services can receive special treatment but only as long it does not interfere with or impede other services.
+
+<p> Telcos are allowed to provide "specialised services" like VoLTE, which needs sufficient bandwidth to work properly. Berec also added 5G services utlising network slicing as a new category.
+

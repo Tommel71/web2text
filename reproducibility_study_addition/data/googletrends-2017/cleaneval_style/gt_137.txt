@@ -1,0 +1,2858 @@
+<p> Weapons cache found at Las Vegas shooter's home
+
+<p> By Holly Yan , Philip Victor and Darran Simon, CNN
+
+<p> Holly Yan
+
+<p> Updated 0343 GMT (1143 HKT) October 3, 2017
+
+<p> Playing on
+
+<p> Current Time
+
+<p> 0:00
+
+<p> /
+
+<p> Duration Time
+
+<p> 0:00
+
+<p> Loaded : 0%
+
+<p> Loaded
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> Remaining Time
+
+<p> -0:00
+
+<p> descriptions off
+
+<p> , selected
+
+<p> Descriptions
+
+<p> Subtitles
+
+<p> Language
+
+<p> Settings
+
+<p> Quality
+
+<p> Automatic
+
+<p> Automatic
+
+<p> HD
+
+<p> Speed
+
+<p> Normal
+
+<p> Subtitle
+
+<p> Options
+
+<p> Quality
+
+<p> Automatic
+
+<p> Speed
+
+<p> 0.25
+
+<p> 0.5
+
+<p> Normal
+
+<p> 1.25
+
+<p> 1.5
+
+<p> 2
+
+<p> Subtitle Options
+
+<p> Font family
+
+<p> Default
+
+<p> Font color
+
+<p> Default
+
+<p> Font opacity
+
+<p> Default
+
+<p> Font size
+
+<p> Default
+
+<p> Background color
+
+<p> Default
+
+<p> Background opacity
+
+<p> Default
+
+<p> Window color
+
+<p> Default
+
+<p> Window opacity
+
+<p> Default
+
+<p> Character edge style
+
+<p> Default
+
+<p> Font family
+
+<p> Default
+
+<p> Monospaced Serif
+
+<p> Proportional Serif
+
+<p> Monospaced Sans-Serif
+
+<p> Proportional Sans-Serif
+
+<p> Font color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Font opacity
+
+<p> Default
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Font size
+
+<p> Default
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 150%
+
+<p> 200%
+
+<p> Background color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Background opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Window color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Window opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Character edge style
+
+<p> Default
+
+<p> None
+
+<p> Drop Shadow
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> This is a modal window.
+
+<p> Caption Settings Dialog
+
+<p> Beginning of dialog window. Escape will cancel and close the window.
+
+<p> Text
+
+<p> Color
+
+<p> White
+
+<p> Black
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Background
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Transparent
+
+<p> Window
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Transparent
+
+<p> Semi-Transparent
+
+<p> Opaque
+
+<p> Font Size
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 125%
+
+<p> 150%
+
+<p> 175%
+
+<p> 200%
+
+<p> 300%
+
+<p> 400%
+
+<p> Text Edge Style
+
+<p> None
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> Dropshadow
+
+<p> Font Family
+
+<p> Proportional Sans-Serif
+
+<p> Monospace Sans-Serif
+
+<p> Proportional Serif
+
+<p> Monospace Serif
+
+<p> Casual
+
+<p> Script
+
+<p> Small Caps
+
+<p> Story highlights
+
+<p> Witness: Concertgoers risked their lives to try to hold other people's wounds closed
+
+<p> Gunman's brother: "We're still just completely befuddled. Dumbstruck."
+
+<p> (CNN)
+
+<p> Stephen Paddock, who sent bullets and terror down on thousands attending a Jason Aldean concert in Las Vegas, had an arsenal in his 32nd-floor hotel room and at his home 80 miles away, officials said.
+
+<p> Police recovered 23 guns from his Las Vegas hotel room and another 19 guns from Paddock's home in Mesquite, Nevada, Clark County Assistant Sheriff Todd Fasulo said.
+
+<p> Authorities said Paddock killed 59 people and injured another 527 early Monday in the deadliest mass shooting in modern US history.
+
+<p> In the hours after the retired accountant committed the shooting, authorities rolled out frightening new details, including the discovery of scopes on rifles at the resort and explosives at his home.
+
+<p> But what they couldn't explain is why the man who had never faced any notable criminal charges did it. There was no known motive late Monday.
+
+<p> Read More
+
+<p> Even Paddock's brother had no answers.
+
+<p> "We're still just completely befuddled. Dumbstruck," Eric Paddock said in Orlando, Florida.
+
+<p> Latest developments
+
+<p> JUST WATCHED
+
+<p> These concertgoers hid in a freezer
+
+<p> Replay
+
+<p> More Videos ...
+
+<p> MUST WATCH
+
+<p> Playing on
+
+<p> Current Time
+
+<p> 0:00
+
+<p> /
+
+<p> Duration Time
+
+<p> 0:00
+
+<p> Loaded : 0%
+
+<p> Loaded
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> Remaining Time
+
+<p> -0:00
+
+<p> descriptions off
+
+<p> , selected
+
+<p> Descriptions
+
+<p> Subtitles
+
+<p> Language
+
+<p> Settings
+
+<p> Quality
+
+<p> Automatic
+
+<p> Automatic
+
+<p> HD
+
+<p> Speed
+
+<p> Normal
+
+<p> Subtitle
+
+<p> Options
+
+<p> Quality
+
+<p> Automatic
+
+<p> Speed
+
+<p> 0.25
+
+<p> 0.5
+
+<p> Normal
+
+<p> 1.25
+
+<p> 1.5
+
+<p> 2
+
+<p> Subtitle Options
+
+<p> Font family
+
+<p> Default
+
+<p> Font color
+
+<p> Default
+
+<p> Font opacity
+
+<p> Default
+
+<p> Font size
+
+<p> Default
+
+<p> Background color
+
+<p> Default
+
+<p> Background opacity
+
+<p> Default
+
+<p> Window color
+
+<p> Default
+
+<p> Window opacity
+
+<p> Default
+
+<p> Character edge style
+
+<p> Default
+
+<p> Font family
+
+<p> Default
+
+<p> Monospaced Serif
+
+<p> Proportional Serif
+
+<p> Monospaced Sans-Serif
+
+<p> Proportional Sans-Serif
+
+<p> Font color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Font opacity
+
+<p> Default
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Font size
+
+<p> Default
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 150%
+
+<p> 200%
+
+<p> Background color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Background opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Window color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Window opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Character edge style
+
+<p> Default
+
+<p> None
+
+<p> Drop Shadow
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> This is a modal window.
+
+<p> Caption Settings Dialog
+
+<p> Beginning of dialog window. Escape will cancel and close the window.
+
+<p> Text
+
+<p> Color
+
+<p> White
+
+<p> Black
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Background
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Transparent
+
+<p> Window
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Transparent
+
+<p> Semi-Transparent
+
+<p> Opaque
+
+<p> Font Size
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 125%
+
+<p> 150%
+
+<p> 175%
+
+<p> 200%
+
+<p> 300%
+
+<p> 400%
+
+<p> Text Edge Style
+
+<p> None
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> Dropshadow
+
+<p> Font Family
+
+<p> Proportional Sans-Serif
+
+<p> Monospace Sans-Serif
+
+<p> Proportional Serif
+
+<p> Monospace Serif
+
+<p> Casual
+
+<p> Script
+
+<p> Small Caps
+
+<p> These concertgoers hid in a freezer
+
+<p> 02:18
+
+<p> -- A team of six officers spoke with security at the Mandalay Bay Resort and Casino, where Paddock was staying, and searched the hotel floor-by-floor Sunday night before they found Paddock's room, Clark County Sheriff Joseph Lombardo told reporters.
+
+<p> -- Paddock, 64, fired at the officers through the door, Lombardo said. A SWAT team broke down the door, but Paddock had already killed himself, Lombardo said.
+
+<p> -- Authorities recovered 23 guns from Paddock's room, said Clark County NV Assistant Sheriff Todd Fasulo. Lombardo said several of the rifles had scopes on them.
+
+<p> -- Another 19 firearms, along with explosives and several thousand rounds of ammunition in Paddock's Mesquite, Nevada, home. The gunman apparently had smashed out two windows to increase his range of targets.
+
+<p> -- The sheriff said a SWAT team was standing by at a house in northern Nevada. A law enforcement official confirmed the FBI is present in Reno.
+
+<p> A vigil was held on the corner of Sahara and Las Vegas Blvd in Las Vegas, in honor of the victims of the shooting.
+
+<p> -- Several vigils were held Monday night to honor
+
+<p> the victims of the shooting.
+
+<p> Communities came out in Reno, Las Vegas and at the campus of University of Nevada Las Vegas.
+
+<p> -- Sandra Casey, a special education teacher in Manhattan Beach, California, was killed, the Manhattan Beach Unified School District said. "We lost a spectacular teacher who devoted her life to helping some of our most needy students," school board President Jennifer Cochran said.
+
+<p> --
+
+<p> Sonny Melton also was identified
+
+<p> as among the dead. His employer, Henry County Medical Center in Paris, Tennessee, said Melton was a registered nurse. His wife survived the shooting.
+
+<p> -- Police had no prior knowledge of the gunman before the attack,
+
+<p> Lombardo
+
+<p> said. "I don't know how it could have been prevented," he said.
+
+<p> -- Paddock bought multiple firearms in the past, but investigators believe the firearms were purchased legally, a law enforcement official said. The official said initial reports suggest at least one rifle was altered to function as an automatic weapon.
+
+<p> -- Chris Michel, owner of Dixie GunWorx, in St. George, Utah, recalled selling Paddock a shotgun earlier this year,
+
+<p> CNN affiliate KTVX
+
+<p> reported. "He talked about how he just moved closer to where we are," Michel said of Paddock. "He said he was visiting local firearms shops." Paddock lived in Mesquite, Nevada, about 35 miles from St. George.
+
+<p> 'Everyone's dying around me'
+
+<p> Witnesses described the horror that unfolded.
+
+<p> Taylor Benge said he "could see a guy with a bullet wound right in his neck, motionless," several feet away. "From there on ... people just started dropping like flies."
+
+<p> Alexandria Cheplak, 25, called her father as she ran from the bullets.
+
+<p> "Everyone's dying around me," Jon Cheplak recalled her saying. "Everyone's dying. They shot my friend ... I've got to get out of here."
+
+<p> Police said Paddock, unleashed a hailstorm of bullets from the 32nd floor of the resort, Lombardo said Monday.
+
+<p> Police say Stephen Paddock killed more than 50 people at a Las Vegas concert.
+
+<p> Authorities are still piecing together a motive.
+
+<p> "I can't get into the mind of a psychopath," the sheriff said.
+
+<p> Mayor Carolyn Goodman described the gunman as "a crazed lunatic full of hate."
+
+<p> Festival turns into massacre
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A man in a wheelchair is evacuated from the festival after gunfire was heard.
+
+<p> Hide Caption
+
+<p> 16 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Victims of the shooting are tended to in the street.
+
+<p> Hide Caption
+
+<p> 17 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Concertgoers help an injured person at the scene.
+
+<p> Hide Caption
+
+<p> 18 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People gather around a victim outside the festival grounds.
+
+<p> Hide Caption
+
+<p> 19 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A couple huddles after shots rang out at the festival.
+
+<p> Hide Caption
+
+<p> 20 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> An injured woman is helped at the Tropicana.
+
+<p> Hide Caption
+
+<p> 21 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police and emergency responders gather at the intersection of Las Vegas Boulevard and Tropicana Avenue.
+
+<p> Hide Caption
+
+<p> 22 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A police officer takes position behind a truck.
+
+<p> Hide Caption
+
+<p> 23 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A crowd takes cover at the festival grounds.
+
+<p> Hide Caption
+
+<p> 24 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police officers advise people to take cover in the wake of the shooting.
+
+<p> Hide Caption
+
+<p> 25 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People tend to a victim at the festival grounds.
+
+<p> Hide Caption
+
+<p> 26 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police stand at the scene of the shooting.
+
+<p> Hide Caption
+
+<p> 27 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A woman sits on a curb at the scene of the shooting.
+
+<p> Hide Caption
+
+<p> 28 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police are deployed to the scene.
+
+<p> Hide Caption
+
+<p> 29 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A man makes a phone call as people run from the festival grounds.
+
+<p> Hide Caption
+
+<p> 30 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Debris is scattered on the ground Monday, October 2, at the site of a country music festival held this past weekend in Las Vegas. Dozens of people were killed and hundreds were injured Sunday when a gunman opened fire on the crowd. Police said the gunman fired from the Mandalay Bay hotel, several hundred feet southwest of the concert grounds. It is the deadliest mass shooting in modern US history.
+
+<p> a gunman opened fire
+
+<p> Hide Caption
+
+<p> 1 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Broken windows of the Mandalay Bay are seen early in Las Vegas on Monday. Police said the gunman fired on the crowd from the 32nd floor of the hotel.
+
+<p> Hide Caption
+
+<p> 2 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People cross a street near the Las Vegas Strip just after sunrise on Monday. Thousands were attending the music festival, Route 91 Harvest, when the shooting started.
+
+<p> Hide Caption
+
+<p> 3 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People embrace outside the Thomas & Mack Center after the shooting.
+
+<p> Hide Caption
+
+<p> 4 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police arrive at the Sands Corporation plane hangar where some people ran to safety after the shooting.
+
+<p> Hide Caption
+
+<p> 5 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A woman cries while hiding inside the Sands Corporation plane hangar.
+
+<p> Hide Caption
+
+<p> 6 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Concertgoers dive over a fence to take cover from gunfire on Sunday night.
+
+<p> Hide Caption
+
+<p> 7 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police take position outside the Mandalay Bay.
+
+<p> Hide Caption
+
+<p> 8 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A man lays on top of a woman as others flee the festival grounds. The woman reportedly got up from the scene.
+
+<p> Hide Caption
+
+<p> 9 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Hide Caption
+
+<p> 10 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People are seen on the ground after the gunman opened fire.
+
+<p> Hide Caption
+
+<p> 11 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People run from the festival grounds.
+
+<p> Hide Caption
+
+<p> 12 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A woman is moved outside the Las Vegas Tropicana resort. Multiple victims were being transported to hospitals in the aftermath of the shooting.
+
+<p> Hide Caption
+
+<p> 13 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People are searched by police at the Tropicana.
+
+<p> Hide Caption
+
+<p> 14 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> An ambulance leaves the intersection of Las Vegas Boulevard and Tropicana Avenue.
+
+<p> Hide Caption
+
+<p> 15 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A man in a wheelchair is evacuated from the festival after gunfire was heard.
+
+<p> Hide Caption
+
+<p> 16 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Victims of the shooting are tended to in the street.
+
+<p> Hide Caption
+
+<p> 17 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Concertgoers help an injured person at the scene.
+
+<p> Hide Caption
+
+<p> 18 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People gather around a victim outside the festival grounds.
+
+<p> Hide Caption
+
+<p> 19 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A couple huddles after shots rang out at the festival.
+
+<p> Hide Caption
+
+<p> 20 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> An injured woman is helped at the Tropicana.
+
+<p> Hide Caption
+
+<p> 21 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police and emergency responders gather at the intersection of Las Vegas Boulevard and Tropicana Avenue.
+
+<p> Hide Caption
+
+<p> 22 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A police officer takes position behind a truck.
+
+<p> Hide Caption
+
+<p> 23 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A crowd takes cover at the festival grounds.
+
+<p> Hide Caption
+
+<p> 24 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police officers advise people to take cover in the wake of the shooting.
+
+<p> Hide Caption
+
+<p> 25 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People tend to a victim at the festival grounds.
+
+<p> Hide Caption
+
+<p> 26 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police stand at the scene of the shooting.
+
+<p> Hide Caption
+
+<p> 27 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A woman sits on a curb at the scene of the shooting.
+
+<p> Hide Caption
+
+<p> 28 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police are deployed to the scene.
+
+<p> Hide Caption
+
+<p> 29 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A man makes a phone call as people run from the festival grounds.
+
+<p> Hide Caption
+
+<p> 30 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Debris is scattered on the ground Monday, October 2, at the site of a country music festival held this past weekend in Las Vegas. Dozens of people were killed and hundreds were injured Sunday when a gunman opened fire on the crowd. Police said the gunman fired from the Mandalay Bay hotel, several hundred feet southwest of the concert grounds. It is the deadliest mass shooting in modern US history.
+
+<p> a gunman opened fire
+
+<p> Hide Caption
+
+<p> 1 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Broken windows of the Mandalay Bay are seen early in Las Vegas on Monday. Police said the gunman fired on the crowd from the 32nd floor of the hotel.
+
+<p> Hide Caption
+
+<p> 2 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People cross a street near the Las Vegas Strip just after sunrise on Monday. Thousands were attending the music festival, Route 91 Harvest, when the shooting started.
+
+<p> Hide Caption
+
+<p> 3 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People embrace outside the Thomas & Mack Center after the shooting.
+
+<p> Hide Caption
+
+<p> 4 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police arrive at the Sands Corporation plane hangar where some people ran to safety after the shooting.
+
+<p> Hide Caption
+
+<p> 5 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A woman cries while hiding inside the Sands Corporation plane hangar.
+
+<p> Hide Caption
+
+<p> 6 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Concertgoers dive over a fence to take cover from gunfire on Sunday night.
+
+<p> Hide Caption
+
+<p> 7 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Police take position outside the Mandalay Bay.
+
+<p> Hide Caption
+
+<p> 8 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A man lays on top of a woman as others flee the festival grounds. The woman reportedly got up from the scene.
+
+<p> Hide Caption
+
+<p> 9 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> Hide Caption
+
+<p> 10 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People are seen on the ground after the gunman opened fire.
+
+<p> Hide Caption
+
+<p> 11 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People run from the festival grounds.
+
+<p> Hide Caption
+
+<p> 12 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> A woman is moved outside the Las Vegas Tropicana resort. Multiple victims were being transported to hospitals in the aftermath of the shooting.
+
+<p> Hide Caption
+
+<p> 13 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> People are searched by police at the Tropicana.
+
+<p> Hide Caption
+
+<p> 14 of 30
+
+<p> Photos:
+
+<p> Mass shooting at Las Vegas music festival
+
+<p> An ambulance leaves the intersection of Las Vegas Boulevard and Tropicana Avenue.
+
+<p> Hide Caption
+
+<p> 15 of 30
+
+<p> The massacre
+
+<p> started about 10:08 p.m.
+
+<p> Sunday (1:08 a.m. ET Monday) at the
+
+<p> Route 91 Harvest festival
+
+<p> , Lombardo said.
+
+<p> Benge was enjoying the concert with his sister when he heard a relentless onslaught of at least "200 to 300" bullets.
+
+<p> "The firing went on forever," witness Kimberly Chilcote said.
+
+<p> She and her husband ran in short bursts -- sprinting and hiding to avoid being targeted.
+
+<p> "There were purses and shoes everywhere ... there were bodies and blood," she said. "We just kept running."
+
+<p> JUST WATCHED
+
+<p> Deadliest mass shootings in modern US history
+
+<p> Replay
+
+<p> More Videos ...
+
+<p> MUST WATCH
+
+<p> Playing on
+
+<p> Current Time
+
+<p> 0:00
+
+<p> /
+
+<p> Duration Time
+
+<p> 0:00
+
+<p> Loaded : 0%
+
+<p> Loaded
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> Remaining Time
+
+<p> -0:00
+
+<p> descriptions off
+
+<p> , selected
+
+<p> Descriptions
+
+<p> Subtitles
+
+<p> Language
+
+<p> Settings
+
+<p> Quality
+
+<p> Automatic
+
+<p> Automatic
+
+<p> HD
+
+<p> Speed
+
+<p> Normal
+
+<p> Subtitle
+
+<p> Options
+
+<p> Quality
+
+<p> Automatic
+
+<p> Speed
+
+<p> 0.25
+
+<p> 0.5
+
+<p> Normal
+
+<p> 1.25
+
+<p> 1.5
+
+<p> 2
+
+<p> Subtitle Options
+
+<p> Font family
+
+<p> Default
+
+<p> Font color
+
+<p> Default
+
+<p> Font opacity
+
+<p> Default
+
+<p> Font size
+
+<p> Default
+
+<p> Background color
+
+<p> Default
+
+<p> Background opacity
+
+<p> Default
+
+<p> Window color
+
+<p> Default
+
+<p> Window opacity
+
+<p> Default
+
+<p> Character edge style
+
+<p> Default
+
+<p> Font family
+
+<p> Default
+
+<p> Monospaced Serif
+
+<p> Proportional Serif
+
+<p> Monospaced Sans-Serif
+
+<p> Proportional Sans-Serif
+
+<p> Font color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Font opacity
+
+<p> Default
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Font size
+
+<p> Default
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 150%
+
+<p> 200%
+
+<p> Background color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Background opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Window color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Window opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Character edge style
+
+<p> Default
+
+<p> None
+
+<p> Drop Shadow
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> This is a modal window.
+
+<p> Caption Settings Dialog
+
+<p> Beginning of dialog window. Escape will cancel and close the window.
+
+<p> Text
+
+<p> Color
+
+<p> White
+
+<p> Black
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Background
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Transparent
+
+<p> Window
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Transparent
+
+<p> Semi-Transparent
+
+<p> Opaque
+
+<p> Font Size
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 125%
+
+<p> 150%
+
+<p> 175%
+
+<p> 200%
+
+<p> 300%
+
+<p> 400%
+
+<p> Text Edge Style
+
+<p> None
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> Dropshadow
+
+<p> Font Family
+
+<p> Proportional Sans-Serif
+
+<p> Monospace Sans-Serif
+
+<p> Proportional Serif
+
+<p> Monospace Serif
+
+<p> Casual
+
+<p> Script
+
+<p> Small Caps
+
+<p> Deadliest mass shootings in modern US history
+
+<p> 01:21
+
+<p> Benge lauded the heroics of his sister, who "threw herself on top of me and said, 'I love you, Taylor,'" he said.
+
+<p> "Even after an hour and 30 minutes, I didn't know if I was safe."
+
+<p> Witness Bryan Hopkins said he survived by jumping into a walk-in freezer at the Mandalay Bay hotel.
+
+<p> "There must have been, I don't know, 23 to 30 of us inside this freezer," he said.
+
+<p> Corrine Lomas recalled the heroism of fellow concertgoers, risking their lives to save others.
+
+<p> "A lot of really good people (were) holding people's wounds shut, trying to help them while everybody was just ducked down," she said.
+
+<p> The investigation
+
+<p> Police said they believe Paddock acted alone. "Right now, we believe it's a sole actor, a lone-wolf-type actor," the sheriff said.
+
+<p> Full coverage
+
+<p> What we know
+
+<p> Hundreds rush to donate blood
+
+<p> Photographer witnesses massacre
+
+<p> The gun debate, again
+
+<p> Opinion: America the lethal
+
+<p> Deadliest shooting in modern US history
+
+<p> So far, the massacre has no known link to overseas terrorism or terror groups, a US official with knowledge of the case said.
+
+<p> And a woman who was described as a "person of interest" after the attack is now not believed to be involved in the shooting, police said in a statement.
+
+<p> "Marilou Danley is no longer being sought out as a person of interest," the Las Vegas Metropolitan Police Department said. "LVMPD detectives have made contact with her and do not believe she is involved with the shooting on the strip."
+
+<p> The gunman's brother, Eric Paddock, said he was stunned to learn Stephen was believed responsible.
+
+<p> He described his brother, a retired accountant, as "a wealthy guy. He liked to play video poker. He went on cruises."
+
+<p> The last time Eric Paddock spoke to his brother was when Stephen texted him, asking how their mother was doing after losing power from Hurricane Irma.
+
+<p> Eric Paddock said he knew his brother owned a few handguns and maybe one long rifle, but said he did not know of any automatic weapons.
+
+<p> Blood donations needed
+
+<p> With hundreds of victims still hospitalized, officials feared the death toll will rise.
+
+<p> The sheriff implored the community to donate blood. And hundreds of Nevadans did exactly that.
+
+<p> Shanda Maloney tweeted a photo while she stood in line at 4:30 a.m.
+
+<p> "This. Is. Vegas. This is our community. These are our people. Thank you to everyone here donating,"
+
+<p> she tweeted
+
+<p> .
+
+<p> Maloney told CNN she also gave transportation to anyone who needed it after the attack.
+
+<p> "I just started picking people up and giving people rides," she said.
+
+<p> Aldean speaks out
+
+<p> Aldean posted a statement on Instagram saying that he and his crew were safe.
+
+<p> "My Thoughts and prayers go out to everyone involved tonight. It hurts my heart that this would happen to anyone who was just coming out to enjoy what should have been a fun night," he wrote.
+
+<p> Country singer Jake Owen, who was on stage with Aldean, said children were among the crowd.
+
+<p> "I saw kids on their parents' shoulders tonight," he said. "This is something they'll never forget."
+
+<p> Trump says he will visit Las Vegas after massacre
+
+<p> 10 minutes of gunfire
+
+<p> Rachel De Kerf filmed her escape, starting just after the first shots were fired.
+
+<p> JUST WATCHED
+
+<p> Concertgoer captures chaos among the crowd
+
+<p> Replay
+
+<p> More Videos ...
+
+<p> MUST WATCH
+
+<p> Playing on
+
+<p> Current Time
+
+<p> 0:00
+
+<p> /
+
+<p> Duration Time
+
+<p> 0:00
+
+<p> Loaded : 0%
+
+<p> Loaded
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> Remaining Time
+
+<p> -0:00
+
+<p> descriptions off
+
+<p> , selected
+
+<p> Descriptions
+
+<p> Subtitles
+
+<p> Language
+
+<p> Settings
+
+<p> Quality
+
+<p> Automatic
+
+<p> Automatic
+
+<p> HD
+
+<p> Speed
+
+<p> Normal
+
+<p> Subtitle
+
+<p> Options
+
+<p> Quality
+
+<p> Automatic
+
+<p> Speed
+
+<p> 0.25
+
+<p> 0.5
+
+<p> Normal
+
+<p> 1.25
+
+<p> 1.5
+
+<p> 2
+
+<p> Subtitle Options
+
+<p> Font family
+
+<p> Default
+
+<p> Font color
+
+<p> Default
+
+<p> Font opacity
+
+<p> Default
+
+<p> Font size
+
+<p> Default
+
+<p> Background color
+
+<p> Default
+
+<p> Background opacity
+
+<p> Default
+
+<p> Window color
+
+<p> Default
+
+<p> Window opacity
+
+<p> Default
+
+<p> Character edge style
+
+<p> Default
+
+<p> Font family
+
+<p> Default
+
+<p> Monospaced Serif
+
+<p> Proportional Serif
+
+<p> Monospaced Sans-Serif
+
+<p> Proportional Sans-Serif
+
+<p> Font color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Font opacity
+
+<p> Default
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Font size
+
+<p> Default
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 150%
+
+<p> 200%
+
+<p> Background color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Background opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Window color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Window opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Character edge style
+
+<p> Default
+
+<p> None
+
+<p> Drop Shadow
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> This is a modal window.
+
+<p> Caption Settings Dialog
+
+<p> Beginning of dialog window. Escape will cancel and close the window.
+
+<p> Text
+
+<p> Color
+
+<p> White
+
+<p> Black
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Background
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Transparent
+
+<p> Window
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Transparent
+
+<p> Semi-Transparent
+
+<p> Opaque
+
+<p> Font Size
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 125%
+
+<p> 150%
+
+<p> 175%
+
+<p> 200%
+
+<p> 300%
+
+<p> 400%
+
+<p> Text Edge Style
+
+<p> None
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> Dropshadow
+
+<p> Font Family
+
+<p> Proportional Sans-Serif
+
+<p> Monospace Sans-Serif
+
+<p> Proportional Serif
+
+<p> Monospace Serif
+
+<p> Casual
+
+<p> Script
+
+<p> Small Caps
+
+<p> Concertgoer captures chaos among the crowd
+
+<p> 01:01
+
+<p> "The gunshots lasted for 10-15 minutes. It didn't stop," she said. "We just ran for our lives."
+
+<p> Her sister, Monique Dumas, said everyone dropped to the ground as as the gunman sprayed bullets.
+
+<p> "It seemed there was a pause in the gunfire, and the people in the yellow shirts were telling the people to 'go, go, go, go,' " she said. But "the gunfire never ended, it seemed like it went on and on and on.
+
+<p> Full coverage
+
+<p> Portraits of the victims
+
+<p> Empire State Building goes dark
+
+<p> Gunman: Poker playing accountant
+
+<p> Brother: Family is dumbstruck
+
+<p> Minute by minute: Bullets rain
+
+<p> A concertgoer told CNN affiliate KLAS that frantic concertgoers piled on top of each other, trying to get out of the shooter's line of fire.
+
+<p> "My husband and I ran out toward our car, and there were people hiding underneath my car for cover," she said.
+
+<p> "There was a gentleman who was shot and he said, 'Can you help me?' And so I put him in my car, and I had like six people in my car -- people without shoes, running, just to get away."
+
+<p> Read: Country music world stunned by shooting
+
+<p> 'Like shooting fish in a barrel'
+
+<p> Audio of the shooting suggested that the shooter had used a military-style weapon, CNN law enforcement analyst James Gagliano said.
+
+<p> JUST WATCHED
+
+<p> Rapid-fire shots at Las Vegas concert
+
+<p> Replay
+
+<p> More Videos ...
+
+<p> MUST WATCH
+
+<p> Playing on
+
+<p> Current Time
+
+<p> 0:00
+
+<p> /
+
+<p> Duration Time
+
+<p> 0:00
+
+<p> Loaded : 0%
+
+<p> Loaded
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> 0:00
+
+<p> Progress : 0%
+
+<p> Progress
+
+<p> Remaining Time
+
+<p> -0:00
+
+<p> descriptions off
+
+<p> , selected
+
+<p> Descriptions
+
+<p> Subtitles
+
+<p> Language
+
+<p> Settings
+
+<p> Quality
+
+<p> Automatic
+
+<p> Automatic
+
+<p> HD
+
+<p> Speed
+
+<p> Normal
+
+<p> Subtitle
+
+<p> Options
+
+<p> Quality
+
+<p> Automatic
+
+<p> Speed
+
+<p> 0.25
+
+<p> 0.5
+
+<p> Normal
+
+<p> 1.25
+
+<p> 1.5
+
+<p> 2
+
+<p> Subtitle Options
+
+<p> Font family
+
+<p> Default
+
+<p> Font color
+
+<p> Default
+
+<p> Font opacity
+
+<p> Default
+
+<p> Font size
+
+<p> Default
+
+<p> Background color
+
+<p> Default
+
+<p> Background opacity
+
+<p> Default
+
+<p> Window color
+
+<p> Default
+
+<p> Window opacity
+
+<p> Default
+
+<p> Character edge style
+
+<p> Default
+
+<p> Font family
+
+<p> Default
+
+<p> Monospaced Serif
+
+<p> Proportional Serif
+
+<p> Monospaced Sans-Serif
+
+<p> Proportional Sans-Serif
+
+<p> Font color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Font opacity
+
+<p> Default
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Font size
+
+<p> Default
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 150%
+
+<p> 200%
+
+<p> Background color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Background opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Window color
+
+<p> Default
+
+<p> White
+
+<p> Yellow
+
+<p> Green
+
+<p> Cyan
+
+<p> Blue
+
+<p> Magenta
+
+<p> Red
+
+<p> Black
+
+<p> Window opacity
+
+<p> Default
+
+<p> 0%
+
+<p> 25%
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> Character edge style
+
+<p> Default
+
+<p> None
+
+<p> Drop Shadow
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> This is a modal window.
+
+<p> Caption Settings Dialog
+
+<p> Beginning of dialog window. Escape will cancel and close the window.
+
+<p> Text
+
+<p> Color
+
+<p> White
+
+<p> Black
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Background
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Opaque
+
+<p> Semi-Transparent
+
+<p> Transparent
+
+<p> Window
+
+<p> Color
+
+<p> Black
+
+<p> White
+
+<p> Red
+
+<p> Green
+
+<p> Blue
+
+<p> Yellow
+
+<p> Magenta
+
+<p> Cyan
+
+<p> Transparency
+
+<p> Transparent
+
+<p> Semi-Transparent
+
+<p> Opaque
+
+<p> Font Size
+
+<p> 50%
+
+<p> 75%
+
+<p> 100%
+
+<p> 125%
+
+<p> 150%
+
+<p> 175%
+
+<p> 200%
+
+<p> 300%
+
+<p> 400%
+
+<p> Text Edge Style
+
+<p> None
+
+<p> Raised
+
+<p> Depressed
+
+<p> Uniform
+
+<p> Dropshadow
+
+<p> Font Family
+
+<p> Proportional Sans-Serif
+
+<p> Monospace Sans-Serif
+
+<p> Proportional Serif
+
+<p> Monospace Serif
+
+<p> Casual
+
+<p> Script
+
+<p> Small Caps
+
+<p> Rapid-fire shots at Las Vegas concert
+
+<p> 01:55
+
+<p> "Automatic weapon(s) like that -- had to be numbers of magazines or a very large drum," he said.
+
+<p> "It sounded to me like a belt-fed weapon, a military-style weapon. And then to be shooting down, to use the analogy, it was like shooting fish in a barrel in that space."
+
+<p> MGM Resorts, which owns the hotel the gunman fired from,
+
+<p> tweeted its condolences
+
+<p> .
+
+<p> As local hospitals rushed to treat hundreds of patents, some relatives were still trying to find their loved ones.
+
+<p> Those looking for friends and family still missing after the attack can call 866-535-5654.
+
+<p> Facebook has set up a crisis response page
+
+<p> to help people determine whether their loved ones are safe.
+
+<p> CNN's Susannah Cullinane, Amanda Jackson, John Couwels, Amanda Watts, Paul Murphy, Jean Casarez, Shimon Prokupecz, AnneClaire Stapleton, Evan Perez, Euan McKirdy and Lawrence Davidson contributed to this report.
+
