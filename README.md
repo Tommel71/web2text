@@ -136,7 +136,7 @@ To evaluate the CNN:
 2. Run `python3 main.py test_structured` to test performance on the CleanEval test set.
 
 
-### Performance of other networks:
+# Performance of other networks:
 
 * When using other frameworks on CleanEval, the .scala-files in the source folder do not need to be changed.
 * When using other frameworks on GT17, the file "CleanEval.scala" in "src\main\scala\ch\ethz\dalab\web2text\cleaneval" needs to be changed according to the comments. 
@@ -144,7 +144,7 @@ This results in the algorithms only running on the GT17-indices instead of the C
 The GT17 files should be loaded into "src\main\resources\cleaneval" instead of the CleanEval files.
 
 
-Before trying to run the different .scala files in the "other_frameworks"-directory, the main scala project needs to be published locally. This can be done with sbt entering the following lines and confirming with Enter after each line.
+Before trying to run the different .scala files in the "other_frameworks"-directory, the main scala project needs to be published locally. This can be done with sbt entering the following lines into a Shell opened in the main folder and confirming with Enter after each line.
 ```scala
 sbt
 compile
@@ -157,25 +157,28 @@ sbt
 ```
 Afterwards, the command "run" opens a list of runnable programs.
 
-# Boilerpipe
+### Boilerpipe
 https://code.google.com/archive/p/boilerpipe/
 
-Choose "Boilerpipe" in the list.
+Run "Boilerpipe" in SBT.
 
 
-# BTE
+### BTE
 https://github.com/girish/utils/blob/master/text_extraction/bte.py
 
 1. Generate the prediction files with "bte.py"
-2. Run "BTE" from SBT.
+2. Run "BTE" in SBT.
 
 
-# Node-unfluff
+### Node-unfluff
 https://github.com/ageitgey/node-unfluff
 
 1. Install Node.
 2. Run the following commands in a Shell in the "other_frameworks" folder
 3. `npm install -g unfluff`
 4. `node unfluff/unfluff.js'
+5. Run "Unfluff" in SBT.
+
+### Performance-Metrics
 
 For the PerformanceMetrics, run "Main.scala" from the original project with the function "evaluateOtherMethods" inside of the main-Function. The results appear in the console.
