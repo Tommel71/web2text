@@ -135,9 +135,47 @@ To evaluate the CNN:
 1. Set the `CHECKPOINT_DIR` variable in `main.py` to point to a directory with trained weights. We provide trained weights based on the cleaneval split and a custom web2text split (with more training data.)
 2. Run `python3 main.py test_structured` to test performance on the CleanEval test set.
 
-The performance of other networks is computed in Scala:
 
+### Performance of other networks:
+
+When using other frameworks on CleanEval, the .scala-files in the source folder do not need to be changed.
+When using other frameworks on GT17, the file "CleanEval.scala" in "src\main\scala\ch\ethz\dalab\web2text\cleaneval" needs to be changed according to the comments. 
+This results in the algorithms only running on the GT17-indices instead of the CleanEval indices.
+The GT17 files should be loaded into "src\main\resources\cleaneval" instead of the CleanEval files.
+
+
+Before trying to run the different .scala files in the "other_frameworks"-directory, the main scala project needs to be published locally. This can be done with sbt entering the following lines and confirming with Enter after each line.
 ```scala
-import ch.ethz.dalab.web2text.Main
-Main.evaluateOthers()
+sbt
+compile
+publishLocal
 ```
+
+Afterwards, the different frameworks can be applied to the dataset. For this, you need to open a Shell inside of the other_frameworks folder. Scala-Files need to be run by entering SBT first:
+```scala
+sbt 
+```
+Afterwards, the command "run" opens a list of runnable programs.
+
+# Boilerpipe
+https://code.google.com/archive/p/boilerpipe/
+
+Choose "Boilerpipe" in the list.
+
+
+# BTE
+https://github.com/girish/utils/blob/master/text_extraction/bte.py
+
+1. Generate the prediction files with "bte.py"
+2. Run "BTE" from SBT.
+
+
+# Node-unfluff
+https://github.com/ageitgey/node-unfluff
+
+1. Install Node.
+2. Run the following commands in a Shell in the "other_frameworks" folder
+3. `npm install -g unfluff`
+4. `node unfluff/unfluff.js'
+
+For the PerformanceMetrics, run "Main.scala" from the original project with the function "evaluateOtherMethods" inside of the main-Function. The results appear in the console.
