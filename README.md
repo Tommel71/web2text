@@ -138,8 +138,8 @@ To evaluate the CNN:
 
 ### Performance of other networks:
 
-When using other frameworks on CleanEval, the .scala-files in the source folder do not need to be changed.
-When using other frameworks on GT17, the file "CleanEval.scala" in "src\main\scala\ch\ethz\dalab\web2text\cleaneval" needs to be changed according to the comments. 
+* When using other frameworks on CleanEval, the .scala-files in the source folder do not need to be changed.
+* When using other frameworks on GT17, the file "CleanEval.scala" in "src\main\scala\ch\ethz\dalab\web2text\cleaneval" needs to be changed according to the comments. 
 This results in the algorithms only running on the GT17-indices instead of the CleanEval indices.
 The GT17 files should be loaded into "src\main\resources\cleaneval" instead of the CleanEval files.
 
