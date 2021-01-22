@@ -6,10 +6,8 @@ import java.nio.file.{Paths, Files}
 import scala.util.Random
 import java.io.FileNotFoundException
 
-import java.nio.charset.StandardCharsets
 import java.nio.charset.CodingErrorAction
 import scala.io.Codec
-import org.apache.commons.io.FileUtils
 
 /** Miscelaneous utility functions
   *
@@ -134,12 +132,10 @@ object Util {
 
   /** Save a file to disk */
   def save(filename: String, content: String): Unit = {
-
-      val file = new java.io.File(filename)
-      val out = new java.io.BufferedWriter(new java.io.FileWriter(file))
-      out.write(content)
-      out.close
-
+    val file = new java.io.File(filename)
+    val out = new java.io.BufferedWriter(new java.io.FileWriter(file))
+    out.write(content)
+    out.close
   }
 
   /** Check if a file exists */

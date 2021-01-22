@@ -17,11 +17,14 @@ import ch.ethz.dalab.web2text.output.CleanTextOutput
 import scala.util.{Try,Success,Failure}
 
 object Main {
+  
 
+  // Choose what you want to do in the Main Function.
   def main(args: Array[String]): Unit = {
     // testWarcLoad
     // exportFeaturesTest
-    exportFeaturesTest
+    alignCleanEvalData
+    //evaluateOtherMethods
   }
 
   def exportFeaturesTest = {
@@ -35,7 +38,7 @@ object Main {
       TreeDistanceExtractor + BlockBreakExtractor + CommonAncestorExtractor(NodeBlockExtractor)
     )
     val data = Util.time{ CleanEval.dataset(fe) }
-    CsvDatasetWriter.write(data, "/Users/tvogels/Desktop/export")
+    CsvDatasetWriter.write(data, "C:/Users/Magnus/Documents/GitHub/web2text/output")
     println("# Block features")
     fe.blockExtractor.labels.foreach(println)
     println("# Edge features")
@@ -51,12 +54,12 @@ object Main {
   def evaluateOtherMethods = {
     val dir = "other_frameworks/output/"
     val cleaners = Iterable(
-      "victor"            -> ((id: Int) => s"$dir/victor/$id-aligned.txt"),
+      "original"               -> ((id: Int) => s"$dir/original/$id.txt")/*,
       "bte"               -> ((id: Int) => s"$dir/bte/$id-aligned.txt"),
       "article-extractor" -> ((id: Int) => s"$dir/article-extractor/$id-aligned.txt"),
       "default-extractor" -> ((id: Int) => s"$dir/default-extractor/$id-aligned.txt"),
       "largest-content"   -> ((id: Int) => s"$dir/largestcontent-extractor/$id-aligned.txt"),
-      "unfluff"           -> ((id: Int) => s"$dir/unfluff/$id-aligned.txt")
+      "unfluff"           -> ((id: Int) => s"$dir/unfluff/$id-aligned.txt")*/
     )
 
     for ((label, filenameGen) <- cleaners) {
@@ -70,8 +73,11 @@ object Main {
   }
 
   def alignCleanEvalData = {
-    val projectPath = "/Users/thijs/dev/boilerplate"
+    val projectPath = "C:\\Users\\Magnus\\Documents\\GitHub\\web2text\\"
     val dir = s"$projectPath/src/main/resources/cleaneval/aligned"
     CleanEval.generateAlignedFiles(dir)
   }
 }
+
+
+

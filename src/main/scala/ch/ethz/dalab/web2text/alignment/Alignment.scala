@@ -344,8 +344,8 @@ object Alignment {
 
   /** Get a label from an aligned string
     * @param position start and end position pair */
-  private def labelFromAlignedString(props: NodeProperties, aligned: String): Int =
-    (props.startPosition, props.endPosition) match {
+  private def labelFromAlignedString(props: NodeProperties, aligned: String): Int = 
+      try {(props.startPosition, props.endPosition) match {
       case (-1,_)                      => println(s"${RED}-1 startPosition.$RESET");       0
       case (_,-1)                      => println(s"${RED}-1 endPosition.$RESET");         0
       case (s,_) if s < 0              => println(s"${RED}negative startPosition.$RESET"); 0
@@ -355,6 +355,9 @@ object Alignment {
         val found = subs.count(x => x.toString != GAPCHAR)
         if (found > 2*props.nCharacters/3) 1 else 0
       }
+    }} catch {
+      case e: NullPointerException => println("NullPointer"); 0
     }
-
+    
+    
 }

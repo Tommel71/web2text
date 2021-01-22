@@ -29,7 +29,7 @@ case class Page(id: Integer) {
       (url, title, charsetMap(encoding))
     case UrlEncoding(url, encoding) =>
       (url, "", charsetMap(encoding))
-    case _ => println("NO MATCH "+firstLine); ("","","")
+    case _ => ("","","")
   }
 
   /** Original file contents, not including the first and last lines,

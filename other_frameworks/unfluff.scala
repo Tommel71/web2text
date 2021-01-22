@@ -17,17 +17,40 @@ object Unfluff {
   /** Step 2: Align the files and save them in the `output` dir as well */
   def alignPages = {
     val folder = "unfluff"
+    val ooms = new scala.collection.mutable.ArrayBuffer[Int]()
     for (page <- CleanEval.iterator) {
-      if (true) {
+      try {
         val orig = page.source
         val clean = Util.loadFile(s"output/$folder/${page.id}.html").trim
+        
         if (!Util.fileExists(s"output/$folder/${page.id}-aligned.txt")) {
-          val alignment = Alignment.alignment(orig, clean)
-          Util.save(s"output/$folder/${page.id}-aligned.txt", alignment)
+          try {
+            val alignment = Alignment.alignment(orig, clean)
+            Util.save(s"output/$folder/${page.id}-aligned.txt", alignment)
+            println(s"Done with ${page.id}")
+          } catch {
+            case e: OutOfMemoryError => {
+              println(s"Error: OOM: ${page.id}")
+              ooms+=page.id.toInt
+              }
+            case e: NegativeArraySizeException => {
+              println(s"Error: NegArray: ${page.id}")
+              ooms+=page.id.toInt
+              }
+          }
         }
-        println(s"Done with ${page.id}")
-      }
+        else {
+          println(s"${page.id}-aligned already there.")
+        }
+       
+      } catch {
+          case e: NullPointerException => {
+              println(s"Error: NullPointer: ${page.id}");
+              ooms+=page.id.toInt
+              }
+      } 
     }
+    println(ooms)
   }
 
 }

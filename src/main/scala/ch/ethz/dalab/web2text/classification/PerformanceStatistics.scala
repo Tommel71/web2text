@@ -22,10 +22,12 @@ object PerformanceStatistics {
       case (0,1) => falseNeg += 1
       case (0,0) => trueNeg  += 1
     }
-    if (n==0) return PerformanceStatistics(0,0,0,0)
-
+    if (n==0) return PerformanceStatistics(0,0,0,0)    
     val accuracy  = (truePos+trueNeg).toDouble / n
-
+    println("truePos,trueNeg,falsePos,falseNeg")
+    println(truePos,trueNeg,falsePos,falseNeg)
+    println("n = ")
+    println(n)
     val precision = if ((truePos+falsePos) != 0)
                       truePos.toDouble / (truePos+falsePos)
                     else
