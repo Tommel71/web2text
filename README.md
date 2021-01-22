@@ -170,7 +170,7 @@ https://github.com/girish/utils/blob/master/text_extraction/bte.py
 2. Run "BTE" in SBT.
 
 
-### Node-unfluff
+### Unfluff
 https://github.com/ageitgey/node-unfluff
 
 1. Install Node.
