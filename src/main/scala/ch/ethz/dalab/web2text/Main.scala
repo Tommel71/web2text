@@ -2,7 +2,7 @@ package ch.ethz.dalab.web2text
 
 import ch.ethz.dalab.web2text.utilities.Util
 import ch.ethz.dalab.web2text.utilities.Util._
-import ch.ethz.dalab.web2text.cleaneval.{CleanEval,Page}
+import ch.ethz.dalab.web2text.cleaneval.{CleanEval, GoogleTrends,Page}
 import ch.ethz.dalab.web2text.cdom.{CDOM,DOM}
 import org.jsoup.Jsoup
 import ch.ethz.dalab.web2text.features.extractor._
@@ -23,9 +23,9 @@ object Main {
   def main(args: Array[String]): Unit = {
     // testWarcLoad
     // exportFeaturesTest
-    alignCleanEvalData
-    //evaluateOtherMethodsCleanEval
-    //evaluateOtherMethodsGoogleTrends
+    // alignCleanEvalData
+    // evaluateOtherMethodsCleanEval
+    // evaluateOtherMethodsGoogleTrends
   }
 
   def exportFeaturesTest = {
@@ -93,7 +93,7 @@ object Main {
       }
     }
   }
-
+ // Enter your path here
   def alignCleanEvalData = {
     val projectPath = "C:\\Users\\Magnus\\Documents\\GitHub\\web2text\\"
     val dir = s"$projectPath/src/main/resources/cleaneval/aligned"
