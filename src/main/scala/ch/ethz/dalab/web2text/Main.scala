@@ -24,7 +24,8 @@ object Main {
     // testWarcLoad
     // exportFeaturesTest
     alignCleanEvalData
-    //evaluateOtherMethods
+    //evaluateOtherMethodsCleanEval
+    //evaluateOtherMethodsGoogleTrends
   }
 
   def exportFeaturesTest = {
@@ -51,7 +52,7 @@ object Main {
     ex(cdom)(cdom.leaves(2),cdom.leaves(1))
   }
 
-  def evaluateOtherMethods = {
+  def evaluateOtherMethodsCleanEval = {
     val dir = "other_frameworks/output/"
     val cleaners = Iterable(
       "original"               -> ((id: Int) => s"$dir/original/$id.txt")/*,
@@ -67,6 +68,27 @@ object Main {
       println(s"\n$title${"#"*(82-title.length)}\n")
       Util.time {
         val eval = CleanEval.evaluateCleaner(filenameGen)
+        println(s"$eval")
+      }
+    }
+  }
+
+  def evaluateOtherMethodsGoogleTrends = {
+    val dir = "other_frameworks/output/"
+    val cleaners = Iterable(
+      "original"               -> ((id: Int) => s"$dir/original/$id.txt")/*,
+      "bte"               -> ((id: Int) => s"$dir/bte/$id-aligned.txt"),
+      "article-extractor" -> ((id: Int) => s"$dir/article-extractor/$id-aligned.txt"),
+      "default-extractor" -> ((id: Int) => s"$dir/default-extractor/$id-aligned.txt"),
+      "largest-content"   -> ((id: Int) => s"$dir/largestcontent-extractor/$id-aligned.txt"),
+      "unfluff"           -> ((id: Int) => s"$dir/unfluff/$id-aligned.txt")*/
+    )
+
+    for ((label, filenameGen) <- cleaners) {
+      val title = s"#### Evaluating ‘${label.capitalize}’ "
+      println(s"\n$title${"#"*(82-title.length)}\n")
+      Util.time {
+        val eval = GoogleTrends.evaluateCleaner(filenameGen)
         println(s"$eval")
       }
     }
