@@ -1,5 +1,7 @@
 ## Code Description
 
+We used Python 3.7.9
+
 ### data.py
 
 This file was only slightly changed from from the original by adding support for the GoogleTrends-2017 dataset. Therefore, we added a variable containing the GoogleTrends Numpy Data and an array containing all data.
@@ -42,3 +44,60 @@ Place this file in the web2text\src\main\resources folder of the Web2Text reposi
 Execute this code in the Scala REPL (if i just ran the file in IntelliJ the placeholders were questionmarks which makes the results unusable). 
 
 The result is the aligned file which can be used in the Web2Text algorithm.
+
+# Get bootstrap evaluation of GT17 and CleanEval
+
+1. Use `googletrends2017_to_cleaneval.py` on the  GT17 data, to get it into the same form as the cleaneval data set.
+2. Use the alignment algorithm of the Web2Text repository by using the `use_alignment.sc` scala script on the cleaneval style groundtruth of GT17. Adapt the paths to your groundtruth (no boilerplate) dataset and the dataset with boilerplate.
+3. Running `ch.ethz.dalab.web2text.Main` using the GoogleTrends or CleanEval class respectively, extract the features.
+4. Use `bootstrap.py` on the features to get the metrics of Web2Text on the bootstrap samples.
+5. Use `statistical testing.py` on the bootstrap metric results.
+
+
+# Performance of other networks:
+
+* When using other frameworks on CleanEval, the .scala-files in the source folder do not need to be changed.
+* When using other frameworks on GT17, the file "CleanEval.scala" in "src\main\scala\ch\ethz\dalab\web2text\cleaneval" needs to be changed according to the comments. 
+This results in the algorithms only running on the GT17-indices instead of the CleanEval indices.
+The GT17 files should be loaded into "src\main\resources\cleaneval" instead of the CleanEval files.
+
+
+Before trying to run the different .scala files in the "other_frameworks"-directory, the main scala project needs to be published locally. This can be done with sbt entering the following lines into a Shell opened in the main folder and confirming with Enter after each line.
+```scala
+sbt
+compile
+publishLocal
+```
+
+Afterwards, the different frameworks can be applied to the dataset. For this, you need to open a Shell inside of the other_frameworks folder. Scala-Files need to be run by entering SBT first:
+```scala
+sbt 
+```
+Afterwards, the command `run` opens a list of runnable programs.
+
+### Boilerpipe
+https://code.google.com/archive/p/boilerpipe/
+
+Run `Boilerpipe` in SBT.
+
+
+### BTE
+https://github.com/girish/utils/blob/master/text_extraction/bte.py
+
+1. Generate the prediction files with `bte.py`
+2. Run `BTE` in SBT.
+
+
+### Unfluff
+https://github.com/ageitgey/node-unfluff
+
+1. Install Node.
+2. Run the following commands in a Shell in the `other_frameworks` folder
+3. `npm install -g unfluff`
+4. `node unfluff/unfluff.js`
+5. Run `Unfluff` in SBT.
+
+### Performance-Metrics
+
+For the PerformanceMetrics, run `Main.scala` from the original project with the function `evaluateOtherMethods` inside of the main-Function. The results appear in the console.
+
