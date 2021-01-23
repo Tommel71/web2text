@@ -2,7 +2,7 @@ package ch.ethz.dalab.web2text
 
 import ch.ethz.dalab.web2text.utilities.Util
 import ch.ethz.dalab.web2text.utilities.Util._
-import ch.ethz.dalab.web2text.cleaneval.{CleanEval,Page}
+import ch.ethz.dalab.web2text.cleaneval.{CleanEval, GoogleTrends,Page}
 import ch.ethz.dalab.web2text.cdom.{CDOM,DOM}
 import org.jsoup.Jsoup
 import ch.ethz.dalab.web2text.features.extractor._
@@ -23,8 +23,9 @@ object Main {
   def main(args: Array[String]): Unit = {
     // testWarcLoad
     // exportFeaturesTest
-    alignCleanEvalData
-    //evaluateOtherMethods
+    // alignCleanEvalData
+    // evaluateOtherMethodsCleanEval
+    // evaluateOtherMethodsGoogleTrends
   }
 
   def exportFeaturesTest = {
@@ -51,7 +52,7 @@ object Main {
     ex(cdom)(cdom.leaves(2),cdom.leaves(1))
   }
 
-  def evaluateOtherMethods = {
+  def evaluateOtherMethodsCleanEval = {
     val dir = "other_frameworks/output/"
     val cleaners = Iterable(
       "original"               -> ((id: Int) => s"$dir/original/$id.txt")/*,
@@ -72,6 +73,27 @@ object Main {
     }
   }
 
+  def evaluateOtherMethodsGoogleTrends = {
+    val dir = "other_frameworks/output/"
+    val cleaners = Iterable(
+      "original"               -> ((id: Int) => s"$dir/original/$id.txt")/*,
+      "bte"               -> ((id: Int) => s"$dir/bte/$id-aligned.txt"),
+      "article-extractor" -> ((id: Int) => s"$dir/article-extractor/$id-aligned.txt"),
+      "default-extractor" -> ((id: Int) => s"$dir/default-extractor/$id-aligned.txt"),
+      "largest-content"   -> ((id: Int) => s"$dir/largestcontent-extractor/$id-aligned.txt"),
+      "unfluff"           -> ((id: Int) => s"$dir/unfluff/$id-aligned.txt")*/
+    )
+
+    for ((label, filenameGen) <- cleaners) {
+      val title = s"#### Evaluating ‘${label.capitalize}’ "
+      println(s"\n$title${"#"*(82-title.length)}\n")
+      Util.time {
+        val eval = GoogleTrends.evaluateCleaner(filenameGen)
+        println(s"$eval")
+      }
+    }
+  }
+ // Enter your path here
   def alignCleanEvalData = {
     val projectPath = "C:\\Users\\Magnus\\Documents\\GitHub\\web2text\\"
     val dir = s"$projectPath/src/main/resources/cleaneval/aligned"

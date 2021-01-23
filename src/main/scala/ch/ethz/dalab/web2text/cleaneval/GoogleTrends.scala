@@ -19,14 +19,14 @@ object GoogleTrends {
   val directory = "/googletrends"
 
   /** Get path to the resource of the HTML source for document #n */
-  def origPath(n: Int) = s"$directory/orig/gt_$n.html"
+  def origPath(n: Int) = s"$directory/orig/$n.html"
 
   /** Get path to the resource of the cleaned document (gold standard) for document #n */
-  def cleanPath(n: Int) = s"$directory/clean/gt_$n.txt"
+  def cleanPath(n: Int) = s"$directory/clean/$n.txt"
 
   /** Get path to the resource of the cleaned aligned document for document #n.
     * @see [[ch.ethz.dalab.web2text.alignment.Alignment]]. */
-  def alignedPath(n: Int) = s"$directory/aligned/gt_$n.txt"
+  def alignedPath(n: Int) = s"$directory/aligned/$n.txt"
 
 
   /** Vector of indices of googletrends items that are complete with source, cleaned and aligned versions. */
@@ -68,10 +68,14 @@ object GoogleTrends {
   }
 
   def loadFirstLine(id: Int) = {
+    try {
     val path = GoogleTrends.origPath(id)
     val stream = getClass.getResourceAsStream(path)
     val source = Source.fromInputStream(stream)
     source.getLines.next()
+    } catch {
+      case e: NullPointerException => ""
+    }
   }
 
   /** Normalize a cleaned file by removing <H> <P> <L> and list markings from the file
@@ -103,7 +107,24 @@ object GoogleTrends {
       result.toVector
   }
 
-
+  /** Evaluate a cleaner by its aligned files.
+    * If a cleaned file for a certain index is missing, it is skipped without penalty.
+    * @param alignedLocation function turning an index to the file location. */
+  def evaluateCleaner(alignedLocation: Int=>String): PerformanceStatistics = {
+    val pairs = iterator flatMap { p =>
+      val path = alignedLocation(p.id)
+      if (!Util.fileExists(path)) {
+        Vector()
+      } else {
+        import Alignment.extractLabels
+        val cdom        = CDOM(p.source)
+        val goldLabels  = extractLabels(cdom, p.aligned)
+        val otherLabels = extractLabels(cdom, Util.loadFile(path))
+        (otherLabels zip goldLabels)
+      }
+    }
+    PerformanceStatistics.fromPairs(pairs.toVector)
+  }
 
 
 
