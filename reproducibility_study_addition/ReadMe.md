@@ -59,12 +59,12 @@ The result is the aligned file which can be used in the Web2Text algorithm.
 # Performance of other networks:
 
 * When using other frameworks on CleanEval, the .scala-files in the source folder do not need to be changed.
-* When using other frameworks on GT17, the file "CleanEval.scala" in "src\main\scala\ch\ethz\dalab\web2text\cleaneval" needs to be changed according to the comments. 
+* When using other frameworks on GT17, the file `CleanEval.scala` in `src\main\scala\ch\ethz\dalab\web2text\cleaneval` needs to be changed according to the comments. 
 This results in the algorithms only running on the GT17-indices instead of the CleanEval indices.
-The GT17 files should be loaded into "src\main\resources\cleaneval" instead of the CleanEval files.
+The GT17 files should be loaded into `src\main\resources\cleaneval` instead of the CleanEval files.
 
 
-Before trying to run the different .scala files in the "other_frameworks"-directory, the main scala project needs to be published locally. This can be done with sbt entering the following lines into a Shell opened in the main folder and confirming with Enter after each line.
+Before trying to run the different .scala files in the `other_frameworks`-directory, the main scala project needs to be published locally. This can be done with sbt entering the following lines into a Shell opened in the main folder and confirming with Enter after each line.
 ```scala
 sbt
 compile
