@@ -16,7 +16,7 @@ python bootstrap.py num_repetitions dataset
 
 The results are stores in a folder called "results"
 
-### statistical testing.py
+### reproducibility_study_addition\statistical testing.py
 
 data has to be saved like thisfor the file to work:
 
@@ -30,16 +30,18 @@ Cleaneval unary approach bootstrap results on Web2Text split: "results/cleaneval
 This script takes outputs from the bootstrapping in the results folder and does the statistical tests and creates the plots we used in the paper.
 
 
-### googletrends2017_to_cleaneval.py
+### reproducibility_study_addition\googletrends2017_to_cleaneval.py
 
 This script is used to convert googletrends2017 target files to the cleaneval style of target files.
 
 path_in determines where the googletrends2017 prepared files are located
 path_out determines where the extracted data is saved.
 
-### use_alignment.sc
+### web2text\src\main\resources\use_alignment.sc
 
-Place this file in the web2text\src\main\resources folder of the Web2Text repository along with the folders "cleaneval_style" and "raw_html" for the output of googletrends2017_to_cleaneval.py and the raw googletrends2017 data.
+Change the paths in the use_alignments file to the folders of "cleaneval_style" and "raw_html" (the output of googletrends2017_to_cleaneval.py and the raw googletrends2017 data).
+
+There are pages, that break the code by using too much space. Delete them from cleaneval_style and raw_html if that happens.
 
 Execute this code in the Scala REPL (if i just ran the file in IntelliJ the placeholders were questionmarks which makes the results unusable). 
 
