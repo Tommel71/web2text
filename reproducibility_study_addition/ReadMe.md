@@ -58,10 +58,10 @@ The result is the aligned file which can be used in the Web2Text algorithm.
 
 # Performance of other networks:
 
-* When using other frameworks on CleanEval, the .scala-files in the source folder do not need to be changed.
-* When using other frameworks on GT17, the file `CleanEval.scala` in `src\main\scala\ch\ethz\dalab\web2text\cleaneval` needs to be changed according to the comments. 
+* When using other frameworks on CleanEval, the function evaluateOtherMethodsCleanEval needs to be added into the main function of `src\main\scala\ch\ethz\dalab\web2text\Main.scala`.
+* When using other frameworks on GT17, the function evaluateOtherMethodsGoogleTrends needs to be added into the main function of `src\main\scala\ch\ethz\dalab\web2text\Main.scala`.
 This results in the algorithms only running on the GT17-indices instead of the CleanEval indices.
-The GT17 files should be loaded into `src\main\resources\cleaneval` instead of the CleanEval files.
+
 
 
 Before trying to run the different .scala files in the `other_frameworks`-directory, the main scala project needs to be published locally. This can be done with sbt entering the following lines into a Shell opened in the main folder and confirming with Enter after each line.
@@ -79,27 +79,29 @@ Afterwards, the command `run` opens a list of runnable programs.
 
 ### Boilerpipe
 https://code.google.com/archive/p/boilerpipe/
-
-Run `Boilerpipe` in SBT.
+1. Change the function in `other_frameworks/boilerpipe.scala` to the correct version. (CE for CleanEval, GT for GoogleTrends)
+2. Run `Boilerpipe` in SBT.
 
 
 ### BTE
 https://github.com/girish/utils/blob/master/text_extraction/bte.py
-
-1. Generate the prediction files with `bte.py`
-2. Run `BTE` in SBT.
+1. Change the function in `other_frameworks/bte.scala` to the correct version. (CE for CleanEval, GT for GoogleTrends)
+2. Change the path in `other_frameworks/bte/script.sh` to the correct location.
+3. Generate the prediction files with `bte.py`
+4. Run `BTE` in SBT.
 
 
 ### Unfluff
 https://github.com/ageitgey/node-unfluff
-
-1. Install Node.
-2. Run the following commands in a Shell in the `other_frameworks` folder
-3. `npm install -g unfluff`
-4. `node unfluff/unfluff.js`
-5. Run `Unfluff` in SBT.
+1. Change the function in `other_frameworks/unfluff.scala` to the correct version. (CE for CleanEval, GT for GoogleTrends)
+2. Change the path in `other_frameworks/unfluff/unfluff.js` to the correct location.
+3. Install Node.
+4. Run the following commands in a Shell in the `other_frameworks` folder
+5. `npm install -g unfluff`
+6. `node unfluff/unfluff.js`
+7. Run `Unfluff` in SBT.
 
 ### Performance-Metrics
 
-For the PerformanceMetrics, run `Main.scala` from the original project with the function `evaluateOtherMethods` inside of the main-Function. The results appear in the console.
+For the PerformanceMetrics, run `Main.scala` from the original project with the function `evaluateOtherMethods{DatasetName}` inside of the main-Function. The results appear in the console.
 

@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 var dir = "C:\\Users\\Magnus\\Documents\\GitHub\\web2text\\src\\main\\resources\\cleaneval\\orig\\"
+// var dir = "C:\\Users\\Magnus\\Documents\\GitHub\\web2text\\src\\main\\resources\\googletrends\\orig\\"
 var outdir = "./output/unfluff/"
 var fs = require('fs')
 var extractor = require('unfluff')
